@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information related to the tsunami.
 file: /courses/1-011-project-evaluation-spring-2011/bf8c03d8669204066b89e18abb4ce807_MIT1_011S11_read16a.pdf
+file_size: 87543
 file_type: application/pdf
 learning_resource_types:
 - Readings

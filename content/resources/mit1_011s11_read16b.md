@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information related to how little mistakes
   can lead to big differences in outcomes.
 file: /courses/1-011-project-evaluation-spring-2011/3f52aa5db5a0c9d738c6550e551b1ec6_MIT1_011S11_read16b.pdf
+file_size: 79516
 file_type: application/pdf
 learning_resource_types:
 - Readings
